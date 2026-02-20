@@ -1,0 +1,39 @@
+
+body {
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#0B0B0B;
+    color:#FFFFFF;
+}
+header {
+    background:#0B0B0B;
+    padding:20px;
+    border-bottom:1px solid #2563EB;
+}
+header h1 {
+    color:#2563EB;
+}
+nav a {
+    color:#FFFFFF;
+    margin-right:15px;
+    text-decoration:none;
+}
+.hero {
+    padding:100px 20px;
+    text-align:center;
+}
+.button {
+    background:#2563EB;
+    color:white;
+    padding:15px 25px;
+    text-decoration:none;
+    border-radius:5px;
+}
+.section {
+    padding:50px 20px;
+}
+footer {
+    padding:20px;
+    text-align:center;
+    border-top:1px solid #2563EB;
+}
